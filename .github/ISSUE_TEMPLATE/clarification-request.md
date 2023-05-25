@@ -1,5 +1,5 @@
 ---
-name: Clarification request
+name: Clarification Request
 about: Suggest a clarification for the documentation
 title: "[CLARIFICATION]"
 labels: clarification
